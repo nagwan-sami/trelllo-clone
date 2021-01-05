@@ -10,19 +10,17 @@ export default {
   mounted() {},
 
   computed: {},
-
+  
   methods: {},
 };
 </script>
 
 <template>
   <div class="w-100">
-    <router-view />
+      <h1>BOARDS</h1>
   </div>
 </template>
 
 
 <style lang="sass" scoped>
 </style>
-
-

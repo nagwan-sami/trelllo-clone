@@ -16,13 +16,9 @@ export default {
 </script>
 
 <template>
-  <div class="w-100">
-    <router-view />
-  </div>
+  <div class="w-100"></div>
 </template>
 
 
 <style lang="sass" scoped>
 </style>
-
-
